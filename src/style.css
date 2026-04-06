@@ -1,0 +1,6 @@
+body { font-family: 'Arial', sans-serif; background: #f4f7f6; display: flex; justify-content: center; padding: 50px; }
+.app-container { background: white; padding: 30px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); width: 100%; max-width: 500px; text-align: center; }
+h1 { color: #2c3e50; }
+input { width: 80%; padding: 10px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px; }
+button { background: #3498db; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; }
+#displayResult { margin-top: 20px; font-weight: bold; color: #27ae60; }
